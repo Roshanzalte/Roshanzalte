@@ -1,4 +1,3 @@
-Roshan-Zalte/README.md
 Hi there 👋 I’m Roshan-zalte, a passionate and skilled Web Developer with expertise in building dynamic, responsive, and scalable applications. I specialize in a range of technologies and bring a strong understanding of modern development practices to every project I work on.
 
 🚀 About Me 🔭 👨‍💻 I’m a passionate Full Stack Developer skilled in Angular, Spring Boot, and MySQL, focused on building responsive and scalable web applications.
